@@ -1,0 +1,27 @@
+# Turns a release staged by Mezzanine's private CI (or the owner's Mac) into a GitHub Release
+# and an appcast entry. See tools/publish.py.
+name: Publish
+
+on:
+  push:
+    branches: [main]
+    paths: ["staging/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Publish
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 tools/publish.py

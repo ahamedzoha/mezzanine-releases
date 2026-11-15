@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Mezzanine</title>
+    <link>https://github.com/ahamedzoha/mezzanine-releases</link>
+    <description>Updates for Mezzanine.</description>
+    <language>en</language>
+    <item>
+      <title>Mezzanine 0.2.0</title>
+      <pubDate>Sun, 15 Nov 2026 11:28:22 GMT</pubDate>
+      <sparkle:version>56</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>
+:root { color-scheme: light dark; }
+body { font: 13px/1.45 -apple-system, system-ui, sans-serif; margin: 10px 14px; }
+ul { padding-left: 18px; margin: 4px 0; } li { margin: 4px 0; }
+h3 { font-size: 13px; font-weight: 600; margin: 12px 0 4px; }
+code { font: 12px ui-monospace, monospace; }
+</style><ul>
+<li>Mezzanine now updates itself: new versions download in the background and install when you quit. Settings ▸ Updates has the switches; Mezzanine ▸ Check for Updates… looks right away. An update never interrupts a film: it waits until the player closes.</li>
+<li>Installs from a disk image (drag Mezzanine into Applications).</li>
+<li>Google Cast: Play On picks This Mac or a TV; Cancel while connecting; Resume on This Mac or Try Again if the TV can&#x27;t play it.</li>
+<li>Mini player, new-episode notifications, picture size (Fit, Fill, Zoom) and faster starts.</li>
+<li>Full screen: the empty grey bar that sometimes stayed at the top after the menu bar slid in is gone.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/ahamedzoha/mezzanine-releases/releases/download/v0.2.0/Mezzanine-0.2.0.dmg" length="28133913" type="application/octet-stream" sparkle:edSignature="xJuRx8BwfmehxI2gxupi/koC/EkE9gkg4cyGdattk4xFRd9c9pifx4xI8hgPAKzeNg/BdUleOCF2C8AgfrxnAw=="/>
+    </item>
+  </channel>
+</rss>
