@@ -1,0 +1,11 @@
+{
+  "version": "0.2.2",
+  "build": "62",
+  "dmg": "Mezzanine-0.2.2.dmg",
+  "length": 28134670,
+  "edSignature": "JPQ4TCX8cLPe2wmxrZEB1QhzLKUlrQ3H3uN0UXBk/pX/g1Q9fvPLV3c5M4bHBJlS0YdCJ//9qR1+JxevIG+ZAA==",
+  "minimumSystemVersion": "26.0",
+  "notesHTML": "<ul>\n<li>Fixed: switching seasons on a show&#x27;s page now shows that season&#x27;s episodes. Before, some rows kept the previous season&#x27;s titles, details and thumbnails.</li>\n</ul>",
+  "pubDate": "Sun, 15 Nov 2026 14:32:32 GMT",
+  "commit": "cf3133698e048be4186844667a6d5759cc472454"
+}
