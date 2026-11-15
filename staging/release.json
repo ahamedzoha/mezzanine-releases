@@ -1,0 +1,11 @@
+{
+  "version": "0.2.1",
+  "build": "59",
+  "dmg": "Mezzanine-0.2.1.dmg",
+  "length": 28097803,
+  "edSignature": "44nPy1KD7SKlIQU7rpb7b2ARpjrygorHqN3ilYW+L6VsL+5cXjKBT5uyb2OTWLiBEfcZ+rSfJRFEGVEmurEzDw==",
+  "minimumSystemVersion": "26.0",
+  "notesHTML": "<ul>\n<li>The first update delivered by Mezzanine&#x27;s own updater. Nothing else changes.</li>\n</ul>",
+  "pubDate": "Sun, 15 Nov 2026 11:43:03 GMT",
+  "commit": "4c7663ebb7d9263f4d10324b953390c10bb98a9a"
+}
