@@ -1,0 +1,11 @@
+{
+  "version": "0.3.1",
+  "build": "74",
+  "dmg": "Mezzanine-0.3.1.dmg",
+  "length": 28239297,
+  "edSignature": "6UkqwrSzLZ+ANM38ombobNmD8fD7UvVIVTk9/zSbr/y36U9CRp1CqZsAbnJHsZHEoFg35lzo4tUeA9TX9UNbDg==",
+  "minimumSystemVersion": "26.0",
+  "notesHTML": "<ul>\n<li>The Plex iPhone and Android apps only list players on your Plex account. Settings \u25b8 Playback \u25b8 Plex mobile apps \u25b8 Show in Plex Apps\u2026 opens Plex&#x27;s page in your browser; approve Mezzanine once and it appears in the apps&#x27; cast list from then on.</li>\n</ul>",
+  "pubDate": "Mon, 16 Nov 2026 08:53:03 GMT",
+  "commit": "c734f15c7c510a108c850bcf72ba00bd408a6ba2"
+}
