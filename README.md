@@ -1,12 +1,14 @@
 # Mezzanine releases
 
-Mezzanine is a personal, native macOS client for Plex. Its source is private; this repository
-only hosts the installer disk images and the update feed the app checks.
+This repository hosts the update feed that installed copies of
+[Mezzanine](https://github.com/ahamedzoha/mezzanine), a native macOS client for Plex, check.
+The source, the full README and the downloads are in the
+[main repository](https://github.com/ahamedzoha/mezzanine).
 
 ## Install
 
 1. Download the latest `Mezzanine-x.y.z.dmg` from
-   [Releases](https://github.com/ahamedzoha/mezzanine-releases/releases/latest).
+   [Releases](https://github.com/ahamedzoha/mezzanine/releases/latest).
 2. Open it and drag **Mezzanine** into **Applications**.
 3. The app is signed but not notarized, so the first time you open it macOS refuses: open
    **System Settings ▸ Privacy & Security**, scroll to Security and click **Open Anyway** next to
