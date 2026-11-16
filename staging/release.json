@@ -1,0 +1,11 @@
+{
+  "version": "0.3.2",
+  "build": "77",
+  "dmg": "Mezzanine-0.3.2.dmg",
+  "length": 28240733,
+  "edSignature": "CD02cVXl6hH9Z8EQHrNVhZEp951lFcI5+KlikBVBJ3Worq/8CZv6GCUhhdEEOcN41VWhaSJ0hEog8oU8/Bq6Cg==",
+  "minimumSystemVersion": "26.0",
+  "notesHTML": "<ul>\n<li>The screen no longer dims or goes to sleep in the middle of a film. While a video plays (in the player or the mini player) Mezzanine keeps the Mac awake; paused, closed or casting to a TV, the Mac sleeps as usual.</li>\n<li>Remote control from Plex apps is now off by default (Settings \u25b8 Playback): Plex&#x27;s current iPhone and Android apps only cast to Google Cast devices, not to Plex players like Mezzanine.</li>\n</ul>",
+  "pubDate": "Mon, 16 Nov 2026 15:00:38 GMT",
+  "commit": "deea613671801b953f72ccc6b5d1eada21b3c295"
+}
