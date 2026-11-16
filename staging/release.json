@@ -1,0 +1,11 @@
+{
+  "version": "0.3.0",
+  "build": "72",
+  "dmg": "Mezzanine-0.3.0.dmg",
+  "length": 28222936,
+  "edSignature": "4tNgf5WQ0SNhIuenuJ9Gb+Maf/TG0Xdj7TiZQi8B5AGmueguPZ03k4LRFN+eqT+CwrqbUh0u8zON+CyS9CNlCw==",
+  "minimumSystemVersion": "26.0",
+  "notesHTML": "<ul>\n<li>Control Mezzanine from the Plex app on your phone or from Plex Web: Mezzanine shows up as a player on your network. Pick it to play a title on the Mac, then pause, seek, skip and change audio or subtitles from the phone. Settings \u25b8 Playback has the switch. The phone and the Mac need to reach each other on the network (some routers keep Wi-Fi devices apart).</li>\n</ul>",
+  "pubDate": "Mon, 16 Nov 2026 08:10:41 GMT",
+  "commit": "68fc78e328ca76d18f293a7a2111906550bee85f"
+}
