@@ -1,0 +1,11 @@
+{
+  "version": "0.2.3",
+  "build": "64",
+  "dmg": "Mezzanine-0.2.3.dmg",
+  "length": 28151377,
+  "edSignature": "OSRMQXg2kKJTrYZscbyYLNWPMShUIWIsUoWdq/oLrVZsTqNSp/u0Nb63a/q2Q+low4HtBFn/WfJSMUuQehpUDA==",
+  "minimumSystemVersion": "26.0",
+  "notesHTML": "<ul>\n<li>Continue Watching shows the episode you stopped on as soon as you close the player. After an episode ended and the next one played, the row could keep the earlier episode until a restart.</li>\n<li>Rows on Home and in libraries always redraw in the right order after they refresh.</li>\n<li>The episode that just ended is marked watched in the library right away when the next one starts, not only when the player closes.</li>\n</ul>",
+  "pubDate": "Mon, 16 Nov 2026 06:41:01 GMT",
+  "commit": "218c6edf4695fd9f0f2f04575ef12aead5c29fa1"
+}
