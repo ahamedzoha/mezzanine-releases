@@ -1,0 +1,11 @@
+{
+  "version": "0.3.3",
+  "build": "79",
+  "dmg": "Mezzanine-0.3.3.dmg",
+  "length": 28256088,
+  "edSignature": "MLu8CovM4cBaWN3akKeavT3zSPBKkyOsnERK6y0fH1lVPI0ezaxZNOwY2qRGbi2MGGP5e1GoICDIVJped264BQ==",
+  "minimumSystemVersion": "26.0",
+  "notesHTML": "<ul>\n<li>Mezzanine no longer quits when the Mac&#x27;s sound output changes, such as connecting AirPods or plugging in headphones while the app is in the background.</li>\n</ul>",
+  "pubDate": "Sun, 22 Nov 2026 19:50:44 GMT",
+  "commit": "79228d353f3fd42112a3d0050128ca0a156111d4"
+}
