@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "build": "109",
+  "dmg": "Mezzanine-1.0.0.dmg",
+  "length": 28951976,
+  "edSignature": "XiaAkttrIZ49g6zwCI7G6+EfMyrlHfmnw3TKjm9/AcsALZ0oFjT11afH8mS8HbIJTfkuzawXyvLFw+O1wi9EBQ==",
+  "minimumSystemVersion": "26.0",
+  "notesHTML": "<ul>\n<li>Play Next and Add to Queue on any film, episode or show; the queue plays before the next episode. Q shows it in the player.</li>\n<li>Shuffle and Shuffle Unwatched for shows, seasons, collections and playlists.</li>\n<li>Your Plex watchlist: in the sidebar, as a Home shelf, and on title pages (\u21e7W). Titles that aren&#x27;t on your server say so.</li>\n<li>Films and shows in Spotlight (Settings \u25b8 Library turns it off).</li>\n<li>Shortcuts and Siri: Resume Watching, Play Next Episode, Open Title, Surprise Me.</li>\n<li>Surprise Me and Activity are in the toolbar on title and collection pages too.</li>\n<li>The window no longer shrinks to its smallest size when a film opens.</li>\n</ul>",
+  "pubDate": "Tue, 24 Nov 2026 07:53:28 GMT",
+  "commit": "42ab5876c0cb0a3b3e73881c684e8abc51456cd2"
+}
