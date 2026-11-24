@@ -1,0 +1,11 @@
+{
+  "version": "0.4.0",
+  "build": "92",
+  "dmg": "Mezzanine-0.4.0.dmg",
+  "length": 28559220,
+  "edSignature": "s1ukcbuCHHa7Fy8QSgBDzIyeC+G4mKSXpCiFP6YlgWI8PppZ5LDs7RDP+yCIUjponMd3KNXQrt9YUgt8IrV8CQ==",
+  "minimumSystemVersion": "26.0",
+  "notesHTML": "<ul>\n<li>A fuller sidebar: what you&#x27;re watching with posters and progress, libraries that open into Unwatched, In Progress, Recently Added and Collections with counts, collections and smart shelves you pin, download progress, and how the server is reached.</li>\n<li>The top bar shows facts under each page&#x27;s title, All / Films / Shows on Home, Surprise Me (\u21e7\u2318R) and an activity button (\u2325\u2318A). Search lists your recent searches.</li>\n<li>Collections have their own pages. Pin one to the sidebar from its page or its menu.</li>\n<li>Right-click any title, or use the new Item menu, to mark it watched or unwatched, take it out of Continue Watching, play it from the start or go to its show. W marks the title in focus.</li>\n<li>A title marked unwatched shows as unwatched everywhere at once.</li>\n<li>The In Progress filter now works in TV libraries.</li>\n<li>Turning the volume above 100 % no longer stops the film at every step. A run of volume keys or a drag on a sound slider is applied once, and most steps up or down now change the loudness at once with no pause.</li>\n<li>Titles of a library you removed from Plex no longer show up in search and smart shelves.</li>\n<li>Checking the library in the background writes far less to disk.</li>\n<li>Plex&#x27;s dashboard shows Mezzanine&#x27;s real version.</li>\n</ul>",
+  "pubDate": "Tue, 24 Nov 2026 06:11:47 GMT",
+  "commit": "a6cc2683dfcfe4e8b4e4440c25cb90aba13e0f75"
+}
