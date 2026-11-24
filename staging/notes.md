@@ -1,0 +1,2 @@
+- A new icon: the lit screen, seen from the mezzanine.
+- Up Next shows a film's backdrop instead of its poster cut through the title.

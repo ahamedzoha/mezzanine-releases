@@ -1,0 +1,11 @@
+{
+  "version": "1.0.2",
+  "build": "117",
+  "dmg": "Mezzanine-1.0.2.dmg",
+  "length": 28903324,
+  "edSignature": "jzYFtVyBVw6Jd8WdMjjqX3kYQjsxvl7UWmWHOPYaspIR1J8Wg+hqPFOrvXDPMiEGTpJfybeQgYpBlCrjYZGJCA==",
+  "minimumSystemVersion": "26.0",
+  "notesHTML": "<ul>\n<li>A new icon: the lit screen, seen from the mezzanine.</li>\n<li>Up Next shows a film&#x27;s backdrop instead of its poster cut through the title.</li>\n</ul>",
+  "pubDate": "Tue, 24 Nov 2026 12:57:47 GMT",
+  "commit": "22e264aa8c5efee258abc8e65bbdb6dc4285d2cb"
+}
