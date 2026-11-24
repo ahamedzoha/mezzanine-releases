@@ -1,0 +1,11 @@
+{
+  "version": "1.0.1",
+  "build": "112",
+  "dmg": "Mezzanine-1.0.1.dmg",
+  "length": 28946229,
+  "edSignature": "kj9IBHHsFm9VvIQU0nei0DE0uN0urk0c0zmdcrrEvvyNEkf5s6uBPORis7EOIqI76siGSpHoui1QZ06k6biiAg==",
+  "minimumSystemVersion": "26.0",
+  "notesHTML": "<ul>\n<li>Other programs on your Mac can no longer attach to Mezzanine and read its memory.</li>\n</ul>",
+  "pubDate": "Tue, 24 Nov 2026 11:40:23 GMT",
+  "commit": "7c2ee9847edefd3587b452386b20184b3453b365"
+}

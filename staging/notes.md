@@ -1,0 +1,1 @@
+- Other programs on your Mac can no longer attach to Mezzanine and read its memory.
