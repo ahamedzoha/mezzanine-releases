@@ -1,0 +1,11 @@
+{
+  "version": "0.5.0",
+  "build": "100",
+  "dmg": "Mezzanine-0.5.0.dmg",
+  "length": 28737795,
+  "edSignature": "Qxhm811C0otxvq7NDUmmxPDJNaZrdI4bAHo5F74OHcO4XTETaISYsYuyzC72Yy0lP1HtotDFmkHa8YIcwqoNDw==",
+  "minimumSystemVersion": "26.0",
+  "notesHTML": "<ul>\n<li>Sleep timer (\u2325S, or Playback \u25b8 Sleep Timer): stop after 15 to 90 minutes, or at the end of the episode or film. The sound fades out first; Return keeps watching.</li>\n<li>What did they say? (W): back ten seconds with subtitles, which go off again by themselves.</li>\n<li>The player shows when the film ends by the clock. T goes to a time you type.</li>\n<li>Picture subtitles (Blu-ray and DVD) are drawn at the size and place the disc gave them. Before, a short line could fill the window&#x27;s width. The Size setting still applies.</li>\n<li>Help \u25b8 Save Diagnostics Report\u2026 writes crashes, hangs and the playback log to a file, without names, titles, addresses or tokens. Nothing is sent.</li>\n</ul>",
+  "pubDate": "Tue, 24 Nov 2026 06:50:52 GMT",
+  "commit": "52f064e950467a4214f9b331ad3d134ffac7df59"
+}
