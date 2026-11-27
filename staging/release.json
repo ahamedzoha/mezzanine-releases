@@ -1,0 +1,11 @@
+{
+  "version": "1.0.3",
+  "build": "123",
+  "dmg": "Mezzanine-1.0.3.dmg",
+  "length": 28917467,
+  "edSignature": "XRDeBLwAkYwhgskvkuAT7ZtsG2B+EHeQEYUDKtZIgCCcuuFONsBMiB6qMMoU7sfejP4A0ewONbgrkYvf8nRgCQ==",
+  "minimumSystemVersion": "26.0",
+  "notesHTML": "<ul>\n<li>Clicking a page in the sidebar (Home, a library, a title) no longer quits Mezzanine on macOS 27.2.</li>\n</ul>",
+  "pubDate": "Fri, 27 Nov 2026 14:18:35 GMT",
+  "commit": "2ee7a9ee4fd756af0041515cf24d05d2cdc45311"
+}
