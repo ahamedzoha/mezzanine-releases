@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Mezzanine</title>
+    <link>https://github.com/ahamedzoha/mezzanine-releases</link>
+    <description>Updates for Mezzanine.</description>
+    <language>en</language>
+    <item>
+      <title>Mezzanine 1.1.0</title>
+      <pubDate>Sat, 28 Nov 2026 12:39:30 GMT</pubDate>
+      <sparkle:version>132</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>
+:root { color-scheme: light dark; }
+body { font: 13px/1.45 -apple-system, system-ui, sans-serif; margin: 10px 14px; }
+ul { padding-left: 18px; margin: 4px 0; } li { margin: 4px 0; }
+h3 { font-size: 13px; font-weight: 600; margin: 12px 0 4px; }
+code { font: 12px ui-monospace, monospace; }
+</style><ul>
+<li><b>Music.</b> Your Plex music library is in the sidebar, with Artists, Albums, Songs and Playlists. Music opens on a wall of your newest albums and Plex&#x27;s music rows; albums, artists and playlists have their own pages, and Songs is a sortable table. Search and Quick Open find artists, albums and songs (Return opens, ⌘Return plays).</li>
+<li>Gapless playback, with loudness leveling that keeps an album&#x27;s own dynamics when it plays in order. Plays count on your server like any other Plex player.</li>
+<li>The Now Playing bar stays at the bottom of the window while you browse. The Controls menu and the media keys play and pause (⌥Space), skip songs (⌘← ⌘→), jump 10 seconds (⌥⌘← ⌥⌘→) and set the volume; every Music key can be changed in Settings ▸ Shortcuts.</li>
+<li>Starting a film or episode pauses the music. While music plays the Mac stays awake, but the display can still sleep.</li>
+<li>Small grey text (row numbers, column headings) is a little brighter, easier to read.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/ahamedzoha/mezzanine-releases/releases/download/v1.1.0/Mezzanine-1.1.0.dmg" length="30153917" type="application/octet-stream" sparkle:edSignature="RFPzhgml/aHznX1oGHuYm2Mmwwz2PLBsaRBkQSvTkKkwd+7fAwTe10afa0xNSQlmhT8uBPBlpWqA7qG9/ybmCA=="/>
+    </item>
+    <item>
+      <title>Mezzanine 1.0.3</title>
+      <pubDate>Fri, 27 Nov 2026 14:18:35 GMT</pubDate>
+      <sparkle:version>123</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>
+:root { color-scheme: light dark; }
+body { font: 13px/1.45 -apple-system, system-ui, sans-serif; margin: 10px 14px; }
+ul { padding-left: 18px; margin: 4px 0; } li { margin: 4px 0; }
+h3 { font-size: 13px; font-weight: 600; margin: 12px 0 4px; }
+code { font: 12px ui-monospace, monospace; }
+</style><ul>
+<li>Clicking a page in the sidebar (Home, a library, a title) no longer quits Mezzanine on macOS 27.2.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/ahamedzoha/mezzanine-releases/releases/download/v1.0.3/Mezzanine-1.0.3.dmg" length="28917467" type="application/octet-stream" sparkle:edSignature="XRDeBLwAkYwhgskvkuAT7ZtsG2B+EHeQEYUDKtZIgCCcuuFONsBMiB6qMMoU7sfejP4A0ewONbgrkYvf8nRgCQ=="/>
+    </item>
+    <item>
+      <title>Mezzanine 1.0.2</title>
+      <pubDate>Tue, 24 Nov 2026 12:57:47 GMT</pubDate>
+      <sparkle:version>117</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>
+:root { color-scheme: light dark; }
+body { font: 13px/1.45 -apple-system, system-ui, sans-serif; margin: 10px 14px; }
+ul { padding-left: 18px; margin: 4px 0; } li { margin: 4px 0; }
+h3 { font-size: 13px; font-weight: 600; margin: 12px 0 4px; }
+code { font: 12px ui-monospace, monospace; }
+</style><ul>
+<li>A new icon: the lit screen, seen from the mezzanine.</li>
+<li>Up Next shows a film&#x27;s backdrop instead of its poster cut through the title.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/ahamedzoha/mezzanine-releases/releases/download/v1.0.2/Mezzanine-1.0.2.dmg" length="28903324" type="application/octet-stream" sparkle:edSignature="jzYFtVyBVw6Jd8WdMjjqX3kYQjsxvl7UWmWHOPYaspIR1J8Wg+hqPFOrvXDPMiEGTpJfybeQgYpBlCrjYZGJCA=="/>
+    </item>
+    <item>
+      <title>Mezzanine 1.0.1</title>
+      <pubDate>Tue, 24 Nov 2026 11:40:23 GMT</pubDate>
+      <sparkle:version>112</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>
+:root { color-scheme: light dark; }
+body { font: 13px/1.45 -apple-system, system-ui, sans-serif; margin: 10px 14px; }
+ul { padding-left: 18px; margin: 4px 0; } li { margin: 4px 0; }
+h3 { font-size: 13px; font-weight: 600; margin: 12px 0 4px; }
+code { font: 12px ui-monospace, monospace; }
+</style><ul>
+<li>Other programs on your Mac can no longer attach to Mezzanine and read its memory.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/ahamedzoha/mezzanine-releases/releases/download/v1.0.1/Mezzanine-1.0.1.dmg" length="28946229" type="application/octet-stream" sparkle:edSignature="kj9IBHHsFm9VvIQU0nei0DE0uN0urk0c0zmdcrrEvvyNEkf5s6uBPORis7EOIqI76siGSpHoui1QZ06k6biiAg=="/>
+    </item>
+    <item>
+      <title>Mezzanine 1.0.0</title>
+      <pubDate>Tue, 24 Nov 2026 07:53:28 GMT</pubDate>
+      <sparkle:version>109</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>
+:root { color-scheme: light dark; }
+body { font: 13px/1.45 -apple-system, system-ui, sans-serif; margin: 10px 14px; }
+ul { padding-left: 18px; margin: 4px 0; } li { margin: 4px 0; }
+h3 { font-size: 13px; font-weight: 600; margin: 12px 0 4px; }
+code { font: 12px ui-monospace, monospace; }
+</style><ul>
+<li>Play Next and Add to Queue on any film, episode or show; the queue plays before the next episode. Q shows it in the player.</li>
+<li>Shuffle and Shuffle Unwatched for shows, seasons, collections and playlists.</li>
+<li>Your Plex watchlist: in the sidebar, as a Home shelf, and on title pages (⇧W). Titles that aren&#x27;t on your server say so.</li>
+<li>Films and shows in Spotlight (Settings ▸ Library turns it off).</li>
+<li>Shortcuts and Siri: Resume Watching, Play Next Episode, Open Title, Surprise Me.</li>
+<li>Surprise Me and Activity are in the toolbar on title and collection pages too.</li>
+<li>The window no longer shrinks to its smallest size when a film opens.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/ahamedzoha/mezzanine-releases/releases/download/v1.0.0/Mezzanine-1.0.0.dmg" length="28951976" type="application/octet-stream" sparkle:edSignature="XiaAkttrIZ49g6zwCI7G6+EfMyrlHfmnw3TKjm9/AcsALZ0oFjT11afH8mS8HbIJTfkuzawXyvLFw+O1wi9EBQ=="/>
+    </item>
+    <item>
+      <title>Mezzanine 0.5.0</title>
+      <pubDate>Tue, 24 Nov 2026 06:50:52 GMT</pubDate>
+      <sparkle:version>100</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>
+:root { color-scheme: light dark; }
+body { font: 13px/1.45 -apple-system, system-ui, sans-serif; margin: 10px 14px; }
+ul { padding-left: 18px; margin: 4px 0; } li { margin: 4px 0; }
+h3 { font-size: 13px; font-weight: 600; margin: 12px 0 4px; }
+code { font: 12px ui-monospace, monospace; }
+</style><ul>
+<li>Sleep timer (⌥S, or Playback ▸ Sleep Timer): stop after 15 to 90 minutes, or at the end of the episode or film. The sound fades out first; Return keeps watching.</li>
+<li>What did they say? (W): back ten seconds with subtitles, which go off again by themselves.</li>
+<li>The player shows when the film ends by the clock. T goes to a time you type.</li>
+<li>Picture subtitles (Blu-ray and DVD) are drawn at the size and place the disc gave them. Before, a short line could fill the window&#x27;s width. The Size setting still applies.</li>
+<li>Help ▸ Save Diagnostics Report… writes crashes, hangs and the playback log to a file, without names, titles, addresses or tokens. Nothing is sent.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/ahamedzoha/mezzanine-releases/releases/download/v0.5.0/Mezzanine-0.5.0.dmg" length="28737795" type="application/octet-stream" sparkle:edSignature="Qxhm811C0otxvq7NDUmmxPDJNaZrdI4bAHo5F74OHcO4XTETaISYsYuyzC72Yy0lP1HtotDFmkHa8YIcwqoNDw=="/>
+    </item>
+    <item>
+      <title>Mezzanine 0.4.0</title>
+      <pubDate>Tue, 24 Nov 2026 06:11:47 GMT</pubDate>
+      <sparkle:version>92</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>
+:root { color-scheme: light dark; }
+body { font: 13px/1.45 -apple-system, system-ui, sans-serif; margin: 10px 14px; }
+ul { padding-left: 18px; margin: 4px 0; } li { margin: 4px 0; }
+h3 { font-size: 13px; font-weight: 600; margin: 12px 0 4px; }
+code { font: 12px ui-monospace, monospace; }
+</style><ul>
+<li>A fuller sidebar: what you&#x27;re watching with posters and progress, libraries that open into Unwatched, In Progress, Recently Added and Collections with counts, collections and smart shelves you pin, download progress, and how the server is reached.</li>
+<li>The top bar shows facts under each page&#x27;s title, All / Films / Shows on Home, Surprise Me (⇧⌘R) and an activity button (⌥⌘A). Search lists your recent searches.</li>
+<li>Collections have their own pages. Pin one to the sidebar from its page or its menu.</li>
+<li>Right-click any title, or use the new Item menu, to mark it watched or unwatched, take it out of Continue Watching, play it from the start or go to its show. W marks the title in focus.</li>
+<li>A title marked unwatched shows as unwatched everywhere at once.</li>
+<li>The In Progress filter now works in TV libraries.</li>
+<li>Turning the volume above 100 % no longer stops the film at every step. A run of volume keys or a drag on a sound slider is applied once, and most steps up or down now change the loudness at once with no pause.</li>
+<li>Titles of a library you removed from Plex no longer show up in search and smart shelves.</li>
+<li>Checking the library in the background writes far less to disk.</li>
+<li>Plex&#x27;s dashboard shows Mezzanine&#x27;s real version.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/ahamedzoha/mezzanine-releases/releases/download/v0.4.0/Mezzanine-0.4.0.dmg" length="28559220" type="application/octet-stream" sparkle:edSignature="s1ukcbuCHHa7Fy8QSgBDzIyeC+G4mKSXpCiFP6YlgWI8PppZ5LDs7RDP+yCIUjponMd3KNXQrt9YUgt8IrV8CQ=="/>
+    </item>
+    <item>
+      <title>Mezzanine 0.3.3</title>
+      <pubDate>Sun, 22 Nov 2026 19:50:44 GMT</pubDate>
+      <sparkle:version>79</sparkle:version>
+      <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>
+:root { color-scheme: light dark; }
+body { font: 13px/1.45 -apple-system, system-ui, sans-serif; margin: 10px 14px; }
+ul { padding-left: 18px; margin: 4px 0; } li { margin: 4px 0; }
+h3 { font-size: 13px; font-weight: 600; margin: 12px 0 4px; }
+code { font: 12px ui-monospace, monospace; }
+</style><ul>
+<li>Mezzanine no longer quits when the Mac&#x27;s sound output changes, such as connecting AirPods or plugging in headphones while the app is in the background.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/ahamedzoha/mezzanine-releases/releases/download/v0.3.3/Mezzanine-0.3.3.dmg" length="28256088" type="application/octet-stream" sparkle:edSignature="MLu8CovM4cBaWN3akKeavT3zSPBKkyOsnERK6y0fH1lVPI0ezaxZNOwY2qRGbi2MGGP5e1GoICDIVJped264BQ=="/>
+    </item>
+    <item>
+      <title>Mezzanine 0.3.2</title>
+      <pubDate>Mon, 16 Nov 2026 15:00:38 GMT</pubDate>
+      <sparkle:version>77</sparkle:version>
+      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>
+:root { color-scheme: light dark; }
+body { font: 13px/1.45 -apple-system, system-ui, sans-serif; margin: 10px 14px; }
+ul { padding-left: 18px; margin: 4px 0; } li { margin: 4px 0; }
+h3 { font-size: 13px; font-weight: 600; margin: 12px 0 4px; }
+code { font: 12px ui-monospace, monospace; }
+</style><ul>
+<li>The screen no longer dims or goes to sleep in the middle of a film. While a video plays (in the player or the mini player) Mezzanine keeps the Mac awake; paused, closed or casting to a TV, the Mac sleeps as usual.</li>
+<li>Remote control from Plex apps is now off by default (Settings ▸ Playback): Plex&#x27;s current iPhone and Android apps only cast to Google Cast devices, not to Plex players like Mezzanine.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/ahamedzoha/mezzanine-releases/releases/download/v0.3.2/Mezzanine-0.3.2.dmg" length="28240733" type="application/octet-stream" sparkle:edSignature="CD02cVXl6hH9Z8EQHrNVhZEp951lFcI5+KlikBVBJ3Worq/8CZv6GCUhhdEEOcN41VWhaSJ0hEog8oU8/Bq6Cg=="/>
+    </item>
+    <item>
+      <title>Mezzanine 0.3.1</title>
+      <pubDate>Mon, 16 Nov 2026 08:53:03 GMT</pubDate>
+      <sparkle:version>74</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>
+:root { color-scheme: light dark; }
+body { font: 13px/1.45 -apple-system, system-ui, sans-serif; margin: 10px 14px; }
+ul { padding-left: 18px; margin: 4px 0; } li { margin: 4px 0; }
+h3 { font-size: 13px; font-weight: 600; margin: 12px 0 4px; }
+code { font: 12px ui-monospace, monospace; }
+</style><ul>
+<li>The Plex iPhone and Android apps only list players on your Plex account. Settings ▸ Playback ▸ Plex mobile apps ▸ Show in Plex Apps… opens Plex&#x27;s page in your browser; approve Mezzanine once and it appears in the apps&#x27; cast list from then on.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/ahamedzoha/mezzanine-releases/releases/download/v0.3.1/Mezzanine-0.3.1.dmg" length="28239297" type="application/octet-stream" sparkle:edSignature="6UkqwrSzLZ+ANM38ombobNmD8fD7UvVIVTk9/zSbr/y36U9CRp1CqZsAbnJHsZHEoFg35lzo4tUeA9TX9UNbDg=="/>
+    </item>
+  </channel>
+</rss>

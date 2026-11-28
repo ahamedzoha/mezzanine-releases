@@ -1,0 +1,112 @@
+[
+  {
+    "version": "1.1.0",
+    "build": "132",
+    "dmg": "Mezzanine-1.1.0.dmg",
+    "length": 30153917,
+    "edSignature": "RFPzhgml/aHznX1oGHuYm2Mmwwz2PLBsaRBkQSvTkKkwd+7fAwTe10afa0xNSQlmhT8uBPBlpWqA7qG9/ybmCA==",
+    "minimumSystemVersion": "26.0",
+    "notesHTML": "<ul>\n<li><b>Music.</b> Your Plex music library is in the sidebar, with Artists, Albums, Songs and Playlists. Music opens on a wall of your newest albums and Plex&#x27;s music rows; albums, artists and playlists have their own pages, and Songs is a sortable table. Search and Quick Open find artists, albums and songs (Return opens, \u2318Return plays).</li>\n<li>Gapless playback, with loudness leveling that keeps an album&#x27;s own dynamics when it plays in order. Plays count on your server like any other Plex player.</li>\n<li>The Now Playing bar stays at the bottom of the window while you browse. The Controls menu and the media keys play and pause (\u2325Space), skip songs (\u2318\u2190 \u2318\u2192), jump 10 seconds (\u2325\u2318\u2190 \u2325\u2318\u2192) and set the volume; every Music key can be changed in Settings \u25b8 Shortcuts.</li>\n<li>Starting a film or episode pauses the music. While music plays the Mac stays awake, but the display can still sleep.</li>\n<li>Small grey text (row numbers, column headings) is a little brighter, easier to read.</li>\n</ul>",
+    "pubDate": "Sat, 28 Nov 2026 12:39:30 GMT",
+    "commit": "6ccd68f7f1adb94b2d39c7f358c381c45def84bd"
+  },
+  {
+    "version": "1.0.3",
+    "build": "123",
+    "dmg": "Mezzanine-1.0.3.dmg",
+    "length": 28917467,
+    "edSignature": "XRDeBLwAkYwhgskvkuAT7ZtsG2B+EHeQEYUDKtZIgCCcuuFONsBMiB6qMMoU7sfejP4A0ewONbgrkYvf8nRgCQ==",
+    "minimumSystemVersion": "26.0",
+    "notesHTML": "<ul>\n<li>Clicking a page in the sidebar (Home, a library, a title) no longer quits Mezzanine on macOS 27.2.</li>\n</ul>",
+    "pubDate": "Fri, 27 Nov 2026 14:18:35 GMT",
+    "commit": "2ee7a9ee4fd756af0041515cf24d05d2cdc45311"
+  },
+  {
+    "version": "1.0.2",
+    "build": "117",
+    "dmg": "Mezzanine-1.0.2.dmg",
+    "length": 28903324,
+    "edSignature": "jzYFtVyBVw6Jd8WdMjjqX3kYQjsxvl7UWmWHOPYaspIR1J8Wg+hqPFOrvXDPMiEGTpJfybeQgYpBlCrjYZGJCA==",
+    "minimumSystemVersion": "26.0",
+    "notesHTML": "<ul>\n<li>A new icon: the lit screen, seen from the mezzanine.</li>\n<li>Up Next shows a film&#x27;s backdrop instead of its poster cut through the title.</li>\n</ul>",
+    "pubDate": "Tue, 24 Nov 2026 12:57:47 GMT",
+    "commit": "22e264aa8c5efee258abc8e65bbdb6dc4285d2cb"
+  },
+  {
+    "version": "1.0.1",
+    "build": "112",
+    "dmg": "Mezzanine-1.0.1.dmg",
+    "length": 28946229,
+    "edSignature": "kj9IBHHsFm9VvIQU0nei0DE0uN0urk0c0zmdcrrEvvyNEkf5s6uBPORis7EOIqI76siGSpHoui1QZ06k6biiAg==",
+    "minimumSystemVersion": "26.0",
+    "notesHTML": "<ul>\n<li>Other programs on your Mac can no longer attach to Mezzanine and read its memory.</li>\n</ul>",
+    "pubDate": "Tue, 24 Nov 2026 11:40:23 GMT",
+    "commit": "7c2ee9847edefd3587b452386b20184b3453b365"
+  },
+  {
+    "version": "1.0.0",
+    "build": "109",
+    "dmg": "Mezzanine-1.0.0.dmg",
+    "length": 28951976,
+    "edSignature": "XiaAkttrIZ49g6zwCI7G6+EfMyrlHfmnw3TKjm9/AcsALZ0oFjT11afH8mS8HbIJTfkuzawXyvLFw+O1wi9EBQ==",
+    "minimumSystemVersion": "26.0",
+    "notesHTML": "<ul>\n<li>Play Next and Add to Queue on any film, episode or show; the queue plays before the next episode. Q shows it in the player.</li>\n<li>Shuffle and Shuffle Unwatched for shows, seasons, collections and playlists.</li>\n<li>Your Plex watchlist: in the sidebar, as a Home shelf, and on title pages (\u21e7W). Titles that aren&#x27;t on your server say so.</li>\n<li>Films and shows in Spotlight (Settings \u25b8 Library turns it off).</li>\n<li>Shortcuts and Siri: Resume Watching, Play Next Episode, Open Title, Surprise Me.</li>\n<li>Surprise Me and Activity are in the toolbar on title and collection pages too.</li>\n<li>The window no longer shrinks to its smallest size when a film opens.</li>\n</ul>",
+    "pubDate": "Tue, 24 Nov 2026 07:53:28 GMT",
+    "commit": "42ab5876c0cb0a3b3e73881c684e8abc51456cd2"
+  },
+  {
+    "version": "0.5.0",
+    "build": "100",
+    "dmg": "Mezzanine-0.5.0.dmg",
+    "length": 28737795,
+    "edSignature": "Qxhm811C0otxvq7NDUmmxPDJNaZrdI4bAHo5F74OHcO4XTETaISYsYuyzC72Yy0lP1HtotDFmkHa8YIcwqoNDw==",
+    "minimumSystemVersion": "26.0",
+    "notesHTML": "<ul>\n<li>Sleep timer (\u2325S, or Playback \u25b8 Sleep Timer): stop after 15 to 90 minutes, or at the end of the episode or film. The sound fades out first; Return keeps watching.</li>\n<li>What did they say? (W): back ten seconds with subtitles, which go off again by themselves.</li>\n<li>The player shows when the film ends by the clock. T goes to a time you type.</li>\n<li>Picture subtitles (Blu-ray and DVD) are drawn at the size and place the disc gave them. Before, a short line could fill the window&#x27;s width. The Size setting still applies.</li>\n<li>Help \u25b8 Save Diagnostics Report\u2026 writes crashes, hangs and the playback log to a file, without names, titles, addresses or tokens. Nothing is sent.</li>\n</ul>",
+    "pubDate": "Tue, 24 Nov 2026 06:50:52 GMT",
+    "commit": "52f064e950467a4214f9b331ad3d134ffac7df59"
+  },
+  {
+    "version": "0.4.0",
+    "build": "92",
+    "dmg": "Mezzanine-0.4.0.dmg",
+    "length": 28559220,
+    "edSignature": "s1ukcbuCHHa7Fy8QSgBDzIyeC+G4mKSXpCiFP6YlgWI8PppZ5LDs7RDP+yCIUjponMd3KNXQrt9YUgt8IrV8CQ==",
+    "minimumSystemVersion": "26.0",
+    "notesHTML": "<ul>\n<li>A fuller sidebar: what you&#x27;re watching with posters and progress, libraries that open into Unwatched, In Progress, Recently Added and Collections with counts, collections and smart shelves you pin, download progress, and how the server is reached.</li>\n<li>The top bar shows facts under each page&#x27;s title, All / Films / Shows on Home, Surprise Me (\u21e7\u2318R) and an activity button (\u2325\u2318A). Search lists your recent searches.</li>\n<li>Collections have their own pages. Pin one to the sidebar from its page or its menu.</li>\n<li>Right-click any title, or use the new Item menu, to mark it watched or unwatched, take it out of Continue Watching, play it from the start or go to its show. W marks the title in focus.</li>\n<li>A title marked unwatched shows as unwatched everywhere at once.</li>\n<li>The In Progress filter now works in TV libraries.</li>\n<li>Turning the volume above 100 % no longer stops the film at every step. A run of volume keys or a drag on a sound slider is applied once, and most steps up or down now change the loudness at once with no pause.</li>\n<li>Titles of a library you removed from Plex no longer show up in search and smart shelves.</li>\n<li>Checking the library in the background writes far less to disk.</li>\n<li>Plex&#x27;s dashboard shows Mezzanine&#x27;s real version.</li>\n</ul>",
+    "pubDate": "Tue, 24 Nov 2026 06:11:47 GMT",
+    "commit": "a6cc2683dfcfe4e8b4e4440c25cb90aba13e0f75"
+  },
+  {
+    "version": "0.3.3",
+    "build": "79",
+    "dmg": "Mezzanine-0.3.3.dmg",
+    "length": 28256088,
+    "edSignature": "MLu8CovM4cBaWN3akKeavT3zSPBKkyOsnERK6y0fH1lVPI0ezaxZNOwY2qRGbi2MGGP5e1GoICDIVJped264BQ==",
+    "minimumSystemVersion": "26.0",
+    "notesHTML": "<ul>\n<li>Mezzanine no longer quits when the Mac&#x27;s sound output changes, such as connecting AirPods or plugging in headphones while the app is in the background.</li>\n</ul>",
+    "pubDate": "Sun, 22 Nov 2026 19:50:44 GMT",
+    "commit": "79228d353f3fd42112a3d0050128ca0a156111d4"
+  },
+  {
+    "version": "0.3.2",
+    "build": "77",
+    "dmg": "Mezzanine-0.3.2.dmg",
+    "length": 28240733,
+    "edSignature": "CD02cVXl6hH9Z8EQHrNVhZEp951lFcI5+KlikBVBJ3Worq/8CZv6GCUhhdEEOcN41VWhaSJ0hEog8oU8/Bq6Cg==",
+    "minimumSystemVersion": "26.0",
+    "notesHTML": "<ul>\n<li>The screen no longer dims or goes to sleep in the middle of a film. While a video plays (in the player or the mini player) Mezzanine keeps the Mac awake; paused, closed or casting to a TV, the Mac sleeps as usual.</li>\n<li>Remote control from Plex apps is now off by default (Settings \u25b8 Playback): Plex&#x27;s current iPhone and Android apps only cast to Google Cast devices, not to Plex players like Mezzanine.</li>\n</ul>",
+    "pubDate": "Mon, 16 Nov 2026 15:00:38 GMT",
+    "commit": "deea613671801b953f72ccc6b5d1eada21b3c295"
+  },
+  {
+    "version": "0.3.1",
+    "build": "74",
+    "dmg": "Mezzanine-0.3.1.dmg",
+    "length": 28239297,
+    "edSignature": "6UkqwrSzLZ+ANM38ombobNmD8fD7UvVIVTk9/zSbr/y36U9CRp1CqZsAbnJHsZHEoFg35lzo4tUeA9TX9UNbDg==",
+    "minimumSystemVersion": "26.0",
+    "notesHTML": "<ul>\n<li>The Plex iPhone and Android apps only list players on your Plex account. Settings \u25b8 Playback \u25b8 Plex mobile apps \u25b8 Show in Plex Apps\u2026 opens Plex&#x27;s page in your browser; approve Mezzanine once and it appears in the apps&#x27; cast list from then on.</li>\n</ul>",
+    "pubDate": "Mon, 16 Nov 2026 08:53:03 GMT",
+    "commit": "c734f15c7c510a108c850bcf72ba00bd408a6ba2"
+  }
+]
