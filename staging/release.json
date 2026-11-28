@@ -1,0 +1,11 @@
+{
+  "version": "1.1.0",
+  "build": "132",
+  "dmg": "Mezzanine-1.1.0.dmg",
+  "length": 30153917,
+  "edSignature": "RFPzhgml/aHznX1oGHuYm2Mmwwz2PLBsaRBkQSvTkKkwd+7fAwTe10afa0xNSQlmhT8uBPBlpWqA7qG9/ybmCA==",
+  "minimumSystemVersion": "26.0",
+  "notesHTML": "<ul>\n<li><b>Music.</b> Your Plex music library is in the sidebar, with Artists, Albums, Songs and Playlists. Music opens on a wall of your newest albums and Plex&#x27;s music rows; albums, artists and playlists have their own pages, and Songs is a sortable table. Search and Quick Open find artists, albums and songs (Return opens, \u2318Return plays).</li>\n<li>Gapless playback, with loudness leveling that keeps an album&#x27;s own dynamics when it plays in order. Plays count on your server like any other Plex player.</li>\n<li>The Now Playing bar stays at the bottom of the window while you browse. The Controls menu and the media keys play and pause (\u2325Space), skip songs (\u2318\u2190 \u2318\u2192), jump 10 seconds (\u2325\u2318\u2190 \u2325\u2318\u2192) and set the volume; every Music key can be changed in Settings \u25b8 Shortcuts.</li>\n<li>Starting a film or episode pauses the music. While music plays the Mac stays awake, but the display can still sleep.</li>\n<li>Small grey text (row numbers, column headings) is a little brighter, easier to read.</li>\n</ul>",
+  "pubDate": "Sat, 28 Nov 2026 12:39:30 GMT",
+  "commit": "6ccd68f7f1adb94b2d39c7f358c381c45def84bd"
+}
